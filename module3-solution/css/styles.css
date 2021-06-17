@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+	margin: 0px;
+}
+.center-text{
+	text-align: center;
+}
+#nav-list{
+	background-color: #FEF5E7;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#bot-chicken{
+	margin-top: 10px;
+}
+#bot-sushi{
+	margin-bottom: 5px;
+}
+#nav-list hr {
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+.nav-color{
+	background-color: #F6DDCC;
+	border-color: #F5B7B1;
+}
+.navbar-header .boder-color{
+	border-color: #F5B7B1;
+}
+
+
+/* ------------------------- content ---------------------------- */
+
+section {
+  position: relative;
+  margin: 10px;
+  background-color: #F4F6F6;
+}
